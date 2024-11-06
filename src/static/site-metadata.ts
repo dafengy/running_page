@@ -10,18 +10,18 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-  description: 'Personal site and blog',
+  siteTitle: '运动是生命的绽放',
+  siteUrl: 'https://dafengy.github.io/',
+  logo: 'https://mmbiz.qpic.cn/mmbiz_png/X9gVKvCVLk095dC5jEdKmYDwjJyNYYhCHz8LQtTcgoDnYOyB4x67lRe69ZHVJbtj24FG1LdkuyRLxdJiaJQsQ2g/640.png',
+  description: '跑啊，大兄弟',
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      url: 'https://dafengy.github.io/posts/',
     },
     {
       name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      url: 'https://dafengy.github.io/about/',
     },
   ],
 };
