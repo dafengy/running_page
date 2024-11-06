@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: '运动是生命的绽放',
   siteUrl: 'https://dafengy.github.io/',
-  logo: 'https://imgse.com/i/pAszzQO',
+  logo: 'https://s21.ax1x.com/2024/11/06/pAszzQO.png',
   description: '跑啊，大兄弟',
   navLinks: [
     {
