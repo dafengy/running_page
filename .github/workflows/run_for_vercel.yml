@@ -29,7 +29,7 @@ env:
   ATHLETE: 于峰
   TITLE: 奔跑吧，少年哟～
   MIN_GRID_DISTANCE: 3 # change min distance here
-  TITLE_GRID: Over 3km Runs # also here
+  TITLE_GRID: 3km热身跑 # also here
   GITHUB_NAME: "dafengy" # default Actions bot you can change it to yours
   GITHUB_EMAIL: "yufeng.9008@gmail.com" # default Actions bot you can change it to yours
 
